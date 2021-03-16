@@ -1,0 +1,288 @@
+<mjml>
+	<mj-head>
+  	<mj-font name="open sans" href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800&display=swap"/>
+  </mj-head>
+    
+   <mj-body>
+    <!-- LOGO -->
+    <mj-section padding="0px">
+    	<mj-column>
+      		<mj-image width="100%" 	
+                   src="https://www.dropbox.com/s/68na5j3vlyhqkp2/dropbox-logo.png?raw=1" 
+                    align="left" />
+      </mj-column>
+    </mj-section>
+     
+     <!-- HEADER -->
+     <mj-section padding-top="0px">
+     		<mj-column background-color="#0D2481"
+                   padding="15px 0px">
+          	<mj-text font-family="open sans" 
+                     font-size="32px" 
+                     line-height="40px" 
+                     font-weight="600" 
+                     color="#ffafa2">
+          		This is the year to take back your time.
+          	</mj-text>
+          	<mj-text font-family="open sans" 
+                     font-size="24px" 
+                     line-height="28px" 
+                     font-weight="300" 
+                     color="#ffffff">
+          		Getting organized is not always easy. Dropbox can help you simplify it all.
+          	</mj-text>
+          	<mj-button font-family="open sans" 
+                       color="#000000" 
+                       background-color="#ffffff"
+                       align="left" font-size="16px" 
+                       line-height="26px" 
+                       inner-padding="15px 50px"
+                       border-radius="0px">Get Started</mj-button>
+       	</mj-column>
+     </mj-section>
+     
+     
+      <!-- SECTION 1 -->
+     <mj-section>
+     		<mj-column>
+       		<mj-text 	 font-family="open sans" 
+                     font-size="18px" 
+                     line-height="27px" 
+                     font-weight="700" 
+                     >
+          		How a filmmaker stays flexible while sticking to her core purpose.
+
+          </mj-text>
+          <mj-text   font-family="open sans" 
+                     font-size="16px" 
+                     line-height="27px" 
+                     font-weight="300" >
+          		Guy Raz learns from Tilane Jones how she’s kept pace during a pandemic to create powerful films made by women and people of color.
+
+          </mj-text>
+          <mj-button color="#1155cc"
+                      font-size="16px" 
+                     line-height="27px" 
+                     font-weight="300"
+                     padding="0px"
+                     text-decoration="underline"
+                     background-color="#ffffff"
+                     align="left">Watch now</mj-button>
+       	</mj-column>
+       	<mj-column>
+       			<mj-image
+                   src="https://www.dropbox.com/s/mz6fsnv6fcbqc82/dropbox-1.jpg?raw=1"></mj-image>
+       	</mj-column>
+     </mj-section>
+     
+     <!-- SECTION 2 -->
+     <mj-section>
+     		<mj-column>
+       		<mj-text 	 font-family="open sans" 
+                     font-size="18px" 
+                     line-height="27px" 
+                     font-weight="700" 
+                     >
+          		Make an entrance without going anywhere.
+          </mj-text>
+          <mj-text   font-family="open sans" 
+                     font-size="16px" 
+                     line-height="27px" 
+                     font-weight="300" >
+          		Our enhanced branded sharing features let you add your company name, logo, and a customizable background image to all links shared externally from your team’s Dropbox account.
+          </mj-text>
+          <mj-button color="#1155cc"
+                      font-size="16px" 
+                     line-height="27px" 
+                     font-weight="300"
+                     padding="0px"
+                     text-decoration="underline"
+                     background-color="#ffffff"
+                     align="left">See how</mj-button>
+       	</mj-column>
+       	<mj-column>
+       			<mj-image
+                   height="auto"
+                   src="https://www.dropbox.com/s/ds1gavugq17kx89/dropbox-2.jpg?raw=1"></mj-image>
+       	</mj-column>
+     </mj-section>
+     
+     <!-- SECTION 3 -->
+     <mj-section>
+     		<mj-column>
+       		<mj-text 	 font-family="open sans" 
+                     font-size="18px" 
+                     line-height="27px" 
+                     font-weight="700" 
+                     >
+          		How managing big, heavy data every day became easy.
+          </mj-text>
+          <mj-text   font-family="open sans" 
+                     font-size="16px" 
+                     line-height="27px" 
+                     font-weight="300" >
+          		Take it from the heavyweights. Creative Agency, Dentsu talks about how being able to send large, hi-res files to clients without a hitch transformed their costs and productivity.
+          </mj-text>
+          <mj-button color="#1155cc"
+                      font-size="16px" 
+                     line-height="27px" 
+                     font-weight="300"
+                     padding="0px"
+                     text-decoration="underline"
+                     background-color="#ffffff"
+                     align="left">Learn more</mj-button>
+       	</mj-column>
+       	<mj-column>
+       			<mj-image
+                   height="auto"
+                   src="https://www.dropbox.com/s/0fjvoh9nyw12ft4/dropbox-3.jpg?raw=1"></mj-image>
+       	</mj-column>
+     </mj-section>
+     
+     <!-- SECTION 4 -->
+     <mj-section>
+     		<mj-column>
+       		<mj-text 	 font-family="open sans" 
+                     font-size="18px" 
+                     line-height="27px" 
+                     font-weight="700" 
+                     >
+          		The state of work is changing for the better.
+          </mj-text>
+          <mj-text   font-family="open sans" 
+                     font-size="16px" 
+                     line-height="27px" 
+                     font-weight="300" >
+          		The pandemic has given us a silver lining: schlepping to the office may become a thing of the past for many.
+          </mj-text>
+          <mj-button color="#1155cc"
+                      font-size="16px" 
+                     line-height="27px" 
+                     font-weight="300"
+                     padding="0px"
+                     text-decoration="underline"
+                     background-color="#ffffff"
+                     align="left">Read more</mj-button>
+       	</mj-column>
+       	<mj-column>
+       			<mj-image
+                   height="auto"
+                   src="https://www.dropbox.com/s/dzououpdfhzcus3/dropbox-4?raw=1"></mj-image>
+       	</mj-column>
+     </mj-section>
+     
+     <!-- SECTION 5 -->
+     <mj-section>
+     		     		<mj-column>
+       		<mj-text 	 font-family="open sans" 
+                     font-size="18px" 
+                     line-height="27px" 
+                     font-weight="700" 
+                     >Install the Dropbox mobile app.
+          </mj-text>
+          <mj-text   font-family="open sans" 
+                     font-size="16px" 
+                     line-height="27px" 
+                     font-weight="300" >
+          		Take all your important documents with you — wherever you go.
+          </mj-text>
+          <mj-button color="#1155cc"
+                      font-size="16px" 
+                     line-height="27px" 
+                     font-weight="300"
+                     padding="0px"
+                     text-decoration="underline"
+                     background-color="#ffffff"
+                     align="left">Get the app</mj-button>
+       	</mj-column>
+       	<mj-column>
+       			<mj-image
+                   height="auto"
+                   src="https://www.dropbox.com/s/uwglgn2jr5cdpnl/dropbox-5.gif?raw=1"></mj-image>
+       	</mj-column>
+     </mj-section>
+     
+     <!-- SECTION 6 -->
+     <mj-section>
+     		<mj-column>
+       		<mj-text 	 font-family="open sans" 
+                     font-size="18px" 
+                     line-height="27px" 
+                     font-weight="700" 
+                     >Our Community members use Dropbox to get creative.
+          </mj-text>
+          <mj-text   font-family="open sans" 
+                     font-size="16px" 
+                     line-height="27px" 
+                     font-weight="300" >
+          		Whether it’s for gardening, coding, composing or work, you can learn about how other people in our Community make Dropbox their own.
+          </mj-text>
+          <mj-button color="#1155cc"
+                      font-size="16px" 
+                     line-height="27px" 
+                     font-weight="300"
+                     padding="0px"
+                     text-decoration="underline"
+                     background-color="#ffffff"
+                     align="left">Learn more</mj-button>
+       	</mj-column>
+       	<mj-column>
+       			<mj-image
+                   height="auto"
+                   src="https://www.dropbox.com/s/waygu2bnfou9qdm/dropbox-6.jpg?raw=1"></mj-image>
+       	</mj-column>
+     </mj-section>
+     
+     <!-- SECTION 7 -->
+     <mj-section background-color="#F7F8F8">
+     		<mj-column>
+       		<mj-text 	 font-family="open sans" 
+                     font-size="18px" 
+                     line-height="27px" 
+                     font-weight="700" 
+                     >Find the Dropbox plan that's right for you.
+          </mj-text>
+          <mj-text   font-family="open sans" 
+                     font-size="16px" 
+                     line-height="27px" 
+                     font-weight="300" >
+          		Whether it’s more room for files or you want more streamlined collaboration, Dropbox has everything you need for home and work.
+          </mj-text>
+          <mj-button color="#ffffff"
+                     font-size="16px" 
+                     line-height="27px" 
+                     font-weight="300"
+                     border-radius="0px"
+                     background-color="#0D2481"
+                     align="left">See Plans</mj-button>
+       	</mj-column>
+       	<mj-column>
+       			<mj-image
+                  
+                   src="https://www.dropbox.com/s/awori939xb4c86n/dropbox-7.jpg?raw=1"></mj-image>
+       	</mj-column>
+     </mj-section>
+
+     <mj-section>
+     		<mj-column>
+       		<mj-text color="#C8CBCD" padding="0px">
+          	Dropbox, Inc.
+          </mj-text>
+          <mj-text  color="#C8CBCD"
+                   	padding="0px">
+          PO Box 77767, San Francisco, CA 94107
+          </mj-text>
+          
+           <mj-button color="#1155CC"
+                      font-size="16px" 
+                     line-height="27px" 
+                     font-weight="300"
+                     padding="0px"
+                     inner-padding="0px"
+                     text-decoration="underline"
+                     background-color="#ffffff"
+                     align="left">Unsubscribe</mj-button>
+       </mj-column>
+     </mj-section>
+   </mj-body>
+</mjml>
